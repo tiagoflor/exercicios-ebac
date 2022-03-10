@@ -1,0 +1,15 @@
+Exercício 1 : Reportar um bug
+1. Navegue no Ecommerce de teste da EBAC
+2. Encontre pelo menos 2 bugs;
+3. Baixe o modelo de Bug Report em anexo e reporte o bug conforme aprendido em
+aula;
+4. Após o preenchimento do documento, faça o upload em nossa plataforma.
+
+
+Exercício 2: Reportar uma melhoria
+1. Navegue no Ecommerce de teste da EBAC:
+2. Encontre pelo menos 2 melhorias;
+3. Acesse o Trello da EBAC e crie um cartão de melhoria. Convite
+do trello
+4. Preencha com sua sugestão de melhoria, adicionando uma
+etiqueta de Prioridade/Criticidade.
