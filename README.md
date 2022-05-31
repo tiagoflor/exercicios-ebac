@@ -1,2 +1,2 @@
 # exercicios-ebac
-Repositório contendo exercício QA da EBAC para portfólio
+Repositório contendo exercício QA do curso EBAC para portfólio
